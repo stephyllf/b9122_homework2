@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#Author: Stephanie Liu
+#Author: Lifan (Stephanie) Liu
 
 from bs4 import BeautifulSoup
 import urllib.request
