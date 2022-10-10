@@ -74,8 +74,4 @@ for covid_url in covid_list:
     print(covid_url)
 
 
-# In[ ]:
-
-
-
 
