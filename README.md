@@ -2,4 +2,5 @@
 
 **Author: Stephanie Liu
 
-## Webcralwer.py: the code we covered in class
+## Webcralwer.py: 
+the sample of code we covered in class
