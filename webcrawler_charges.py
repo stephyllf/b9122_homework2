@@ -75,8 +75,4 @@ for charges_url in charges_list:
     print(charges_url)
 
 
-# In[ ]:
-
-
-
 
